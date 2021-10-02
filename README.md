@@ -18,7 +18,9 @@ Presentations/talks I have given.
 
 - 2020-10-30: **Proper Scoring Rules**. Given at the MRP reading group. [[Slides]](https://github.com/maxbiostat/proper_scoring_rules/blob/master/proper_scoring_rules.pdf).  
 
-- 2021-05-25: **Logarithmic pooling of probability distributions: advances and prospects**. Given at the Open University's Mathematiccs Department Seminar. [[Slides]](https://github.com/maxbiostat/opinion_pooling/blob/master/presentations/open_university_2021/lmcarvalho_OpenUni_2021.pdf).  
+- 2021-05-25: **Logarithmic pooling of probability distributions: advances and prospects**. Given at the Open University's Mathematiccs Department Seminar. [[Slides]](https://github.com/maxbiostat/opinion_pooling/blob/master/presentations/open_university_2021/lmcarvalho_OpenUni_2021.pdf). 
+
+- 2021-08-12: **Adaptive truncation of Infinite Series: Applications to Statistics**. Given at [JSM 2021](https://ww2.amstat.org/meetings/jsm/2021/). [[Slides]](https://github.com/maxbiostat/presentations/blob/master/PDF/JSM_2021_longer.pdf). [[Video]](https://youtu.be/WfTUbD2krbU).  
 
 - 2021-08-31: **Simulation-based calibration for phylogenetics**. Given at [SBC StanConnect](https://mc-stan.org/events/stanconnect_SBC/). [[Slides]](https://github.com/maxbiostat/presentations/blob/master/PDF/SBC_phylo_StanConnect2021.pdf) [[Video (English]](https://youtu.be/SbgAMkN18dA?t=5150). 
 
