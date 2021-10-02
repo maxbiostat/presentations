@@ -13,6 +13,8 @@ Presentations/talks I have given.
 
 - 2020-08-14: **Adaptive Markov chain Monte Carlo on the space of time-calibrated trees**. Given at the DEST/UFMG webinar. [[Slides]](https://github.com/maxbiostat/presentations/blob/master/PDF/2020_LMCarvalho_MCM_Phylo.pdf)  [[Video (Portuguese)]](https://www.youtube.com/watch?v=CBp9K7dWLOU).
 
+- 2020-10-30: **Proper Scoring Rules**. Given at the MRP reading group. [[Slides]](https://github.com/maxbiostat/proper_scoring_rules/blob/master/proper_scoring_rules.pdf).  
+
 - 2021-05-25: **Logarithmic pooling of probability distributions: advances and prospects**. Given at the Open University's Mathematiccs Department Seminar. [[Slides]](https://github.com/maxbiostat/opinion_pooling/blob/master/presentations/open_university_2021/lmcarvalho_OpenUni_2021.pdf).  
 
 - 2021-08-31: **Simulation-based calibration for phylogenetics**. Given at [SBC StanConnect](https://mc-stan.org/events/stanconnect_SBC/). [[Slides]](https://github.com/maxbiostat/presentations/blob/master/PDF/SBC_phylo_StanConnect2021.pdf) [[Video (English]](https://youtu.be/SbgAMkN18dA?t=5150). 
