@@ -1,6 +1,8 @@
 # Presentations
 Presentations/talks I have given.
 
+- 2012-09-28: Knowledge Discovery in Databases through Complex Networks: application to phylodynamics. Given at the "Workshop at Fiocruz in September". [[Slides]](https://github.com/maxbiostat/presentations/blob/master/PDF/Carvalho%20LMF__WaFiS%202012.pdf).
+
 - 2017-08-29: Evolutionary epidemiology in the 21st century. Given at [CCIARM](http://www.lac.inpe.br/cciarm/). [[Slides]](https://github.com/maxbiostat/presentations/blob/master/PDF/2017_LMCarvalho_CCIARM.pdf).
 
 - 2020-06-18: Modelling COVID-19: making the best of bad data. Given at the EMAp/FGV webinar. [[Slides]](https://github.com/maxbiostat/presentations/blob/master/PDF/LMCarvalho_COVID19_modelling.pdf) [[Video (Portuguese)] ](https://www.youtube.com/watch?v=Wf6AiAsIR0Y&t=4543s).
