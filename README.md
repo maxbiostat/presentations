@@ -18,7 +18,7 @@ Presentations/talks I have given.
 
 - 2020-08-13: **Efficient brute-force marginalisation of discrete variables in an epidemic model of sub-critical transmission**. Given at [StanCon2020](https://mc-stan.org/events/stancon2020/). [[Poster]](https://github.com/maxbiostat/StanCon2020/blob/master/poster/poster.pdf). [[Repo]](https://github.com/maxbiostat/StanCon2020).
 
-- 2020-08-14: **Adaptive Markov chain Monte Carlo on the space of time-calibrated trees**. Given at the DEST/UFMG webinar. [[Slides]](https://github.com/maxbiostat/presentations/blob/master/PDF/2020_LMCarvalho_MCM_Phylo.pdf)  [[Video (Portuguese)]](https://www.youtube.com/watch?v=CBp9K7dWLOU).
+- 2020-08-14: **Adaptive Markov chain Monte Carlo on the space of time-calibrated trees**. Given at the DEST/UFMG webinar. [[Slides]](https://github.com/maxbiostat/presentations/blob/master/PDF/2020_LMCarvalho_MCM_Phylo.pdf)  [[Video (Portuguese)]](https://www.youtube.com/watch?v=CBp9K7dWLOU). [[Repo for a slightly different version]](https://github.com/maxbiostat/stats_seminar_2017). Same talk at [MCQMC202](https://mcqmc20.web.ox.ac.uk/), but in English: [[Video]](https://youtu.be/ozL-T4792EI).
 
 - 2020-10-30: **Proper Scoring Rules**. Given at the MRP reading group. [[Slides]](https://github.com/maxbiostat/proper_scoring_rules/blob/master/proper_scoring_rules.pdf).  
 
