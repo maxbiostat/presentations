@@ -1,11 +1,14 @@
 # Presentations
 Presentations/talks I have given.
 
+
+- 2012-09-28: **Knowledge Discovery in Databases through Complex Networks: application to phylodynamics**. Given at the "Workshop at Fiocruz in September". [[Slides]](https://github.com/maxbiostat/presentations/blob/master/PDF/Carvalho%20LMF__WaFiS%202012.pdf).
+
 - 2015-07-29: **Phylodynamics: how Genetics and Mathematics are changing our understanding of infectious diseases**. Given at the XXX Brazilian Mathematics Colloquium. [[Slides]](https://github.com/maxbiostat/Colloquium_IMPA_2015/blob/master/lmcarvalho_phylo.pdf). [[Video (Portuguese)]](https://www.youtube.com/watch?v=xcXjh0CdkLA). [[repo]](https://github.com/maxbiostat/Colloquium_IMPA_2015/).
 
 - 2016-02-23: **On the choice of weights for logarithimc pooling of probability distributions**. Given at the XIII Brazilian Bayesian Statistics Meeting (EBEB). [[Slides]](https://github.com/maxbiostat/opinion_pooling/blob/master/presentations/EBEB_2016/PRESENTATION/lmcarvalho_etal_ebeb_2016.pdf). [[Video]](https://youtu.be/MGft1XnW3es?list=PL3T2Ppt4bgDJBiGZlan-qNY6PsLOGXdAB).     
 
-- 2012-09-28: **Knowledge Discovery in Databases through Complex Networks: application to phylodynamics**. Given at the "Workshop at Fiocruz in September". [[Slides]](https://github.com/maxbiostat/presentations/blob/master/PDF/Carvalho%20LMF__WaFiS%202012.pdf).
+- 2019-05-14: **Phylodynamics of infectious diseases: recent advances**. Given at the [IMPG](https://www.microbiologia.ufrj.br/portal/index.php/pt/) Seminar. [[Slides]](https://github.com/maxbiostat/presentations/blob/master/PDF/2019_LMCarvalho_IMPG.pdf) 
 
 - 2017-08-29: **Evolutionary epidemiology in the 21st century**. Given at [CCIARM](http://www.lac.inpe.br/cciarm/). [[Slides]](https://github.com/maxbiostat/presentations/blob/master/PDF/2017_LMCarvalho_CCIARM.pdf).
 
