@@ -4,6 +4,8 @@ Presentations/talks I have given.
 
 - 2012-09-28: **Knowledge Discovery in Databases through Complex Networks: application to phylodynamics**. Given at the "Workshop at Fiocruz in September". [[Slides]](https://github.com/maxbiostat/presentations/blob/master/PDF/Carvalho%20LMF__WaFiS%202012.pdf).
 
+- 2012-11-26: **Playing dumb: the misuse of Statistics in Biology**. Given at the [IMPG](https://www.microbiologia.ufrj.br/portal/index.php/pt/). [[Slides]](https://github.com/maxbiostat/presentations/blob/master/PDF/BAD_PRACT.pdf).
+
 - 2015-07-29: **Phylodynamics: how Genetics and Mathematics are changing our understanding of infectious diseases**. Given at the XXX Brazilian Mathematics Colloquium. [[Slides]](https://github.com/maxbiostat/Colloquium_IMPA_2015/blob/master/lmcarvalho_phylo.pdf). [[Video (Portuguese)]](https://www.youtube.com/watch?v=xcXjh0CdkLA). [[repo]](https://github.com/maxbiostat/Colloquium_IMPA_2015/).
 
 - 2016-02-23: **On the choice of weights for logarithimc pooling of probability distributions**. Given at the XIII Brazilian Bayesian Statistics Meeting (EBEB). [[Slides]](https://github.com/maxbiostat/opinion_pooling/blob/master/presentations/EBEB_2016/PRESENTATION/lmcarvalho_etal_ebeb_2016.pdf). [[Video]](https://youtu.be/MGft1XnW3es?list=PL3T2Ppt4bgDJBiGZlan-qNY6PsLOGXdAB).     
@@ -24,6 +26,6 @@ Presentations/talks I have given.
 
 - 2021-08-31: **Simulation-based calibration for phylogenetics**. Given at [SBC StanConnect](https://mc-stan.org/events/stanconnect_SBC/). [[Slides]](https://github.com/maxbiostat/presentations/blob/master/PDF/SBC_phylo_StanConnect2021.pdf) [[Video (English]](https://youtu.be/SbgAMkN18dA?t=5150). 
 
-- 2021-08-21: **FGV Day: an introduction to Applied Mathematics for prospective (high school) students** [[Slides]](https://github.com/maxbiostat/presentations/blob/master/PDF/2021_FGV_day.pdf) in Portuguese.
+- 2021-08-21: **FGV Day: an introduction to Applied Mathematics for prospective (high school) students**. [[Slides]](https://github.com/maxbiostat/presentations/blob/master/PDF/2021_FGV_day.pdf) in Portuguese.
 
 - 2021-09-16: **FGV/EMAp Postgraduate Day: my main topics of research** (as of September 2021) [[Slides]](https://github.com/maxbiostat/presentations/blob/master/PDF/EMAp_postgrad_2021.pdf).
