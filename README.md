@@ -1,21 +1,29 @@
 # Presentations
 Presentations/talks I have given.
 
+### 2012
 
 - 2012-09-28: **Knowledge Discovery in Databases through Complex Networks: application to phylodynamics**. Given at the "Workshop at Fiocruz in September". [[Slides]](https://github.com/maxbiostat/presentations/blob/master/PDF/Carvalho%20LMF__WaFiS%202012.pdf).
 
 - 2012-11-26: **Playing dumb: the misuse of Statistics in Biology**. Given at the [IMPG](https://www.microbiologia.ufrj.br/portal/index.php/pt/). [[Slides]](https://github.com/maxbiostat/presentations/blob/master/PDF/BAD_PRACT.pdf).
 
+### 2014
 - 2014-03-11: **Bayesian inference of deterministic population growth models**. Given at the [XII Brazilian Meeting on Bayesian Statistics](https://www.ime.usp.br/~isbra/ebeb/ebeb2014/) (EBEB). [[Slides]](https://github.com/maxbiostat/presentations/blob/master/PDF/2014_Carvalho_EBEB.pdf). [[Video]](https://youtu.be/35ubhRoJLN0). [[Code]](https://github.com/maxbiostat/CODE/tree/master/BIDPGM).
+
+### 2015
 
 - 2015-07-29: **Phylodynamics: how Genetics and Mathematics are changing our understanding of infectious diseases**. Given at the XXX Brazilian Mathematics Colloquium. [[Slides]](https://github.com/maxbiostat/Colloquium_IMPA_2015/blob/master/lmcarvalho_phylo.pdf). [[Video (Portuguese)]](https://www.youtube.com/watch?v=xcXjh0CdkLA). [[repo]](https://github.com/maxbiostat/Colloquium_IMPA_2015/).
 
+### 2016
 - 2016-02-23: **On the choice of weights for logarithimc pooling of probability distributions**. Given at the XIII Brazilian Bayesian Statistics Meeting (EBEB). [[Slides]](https://github.com/maxbiostat/opinion_pooling/blob/master/presentations/EBEB_2016/PRESENTATION/lmcarvalho_etal_ebeb_2016.pdf). [[Video]](https://youtu.be/MGft1XnW3es?list=PL3T2Ppt4bgDJBiGZlan-qNY6PsLOGXdAB).     
 
+### 2017
 - 2017-08-29: **Evolutionary epidemiology in the 21st century**. Given at [CCIARM](http://www.lac.inpe.br/cciarm/). [[Slides]](https://github.com/maxbiostat/presentations/blob/master/PDF/2017_LMCarvalho_CCIARM.pdf).
 
+### 2019
 - 2019-05-14: **Phylodynamics of infectious diseases: recent advances**. Given at the [IMPG](https://www.microbiologia.ufrj.br/portal/index.php/pt/) Seminar. [[Slides]](https://github.com/maxbiostat/presentations/blob/master/PDF/2019_LMCarvalho_IMPG.pdf) 
 
+### 2020
 - 2020-06-18: **Modelling COVID-19: making the best of bad data**. Given at the EMAp/FGV webinar. [[Slides]](https://github.com/maxbiostat/presentations/blob/master/PDF/LMCarvalho_COVID19_modelling.pdf) [[Video (Portuguese)] ](https://www.youtube.com/watch?v=Wf6AiAsIR0Y&t=4543s).
 
 - 2020-08-13: **Efficient brute-force marginalisation of discrete variables in an epidemic model of sub-critical transmission**. Given at [StanCon2020](https://mc-stan.org/events/stancon2020/). [[Poster]](https://github.com/maxbiostat/StanCon2020/blob/master/poster/poster.pdf). [[Repo]](https://github.com/maxbiostat/StanCon2020).
@@ -24,6 +32,7 @@ Presentations/talks I have given.
 
 - 2020-10-30: **Proper Scoring Rules**. Given at the MRP reading group. [[Slides]](https://github.com/maxbiostat/proper_scoring_rules/blob/master/proper_scoring_rules.pdf).  
 
+### 2021
 - 2021-05-25: **Logarithmic pooling of probability distributions: advances and prospects**. Given at the Open University's Mathematiccs Department Seminar. [[Slides]](https://github.com/maxbiostat/opinion_pooling/blob/master/presentations/open_university_2021/lmcarvalho_OpenUni_2021.pdf). 
 
 - 2021-08-04: **A proposal for the standardisation of epidemic modelling reporting in Brazil**. Given at the [Third Brazilian Meeting in Data Science (EBDS)](https://evento.fgv.br/encontrodatascience/). [[Video]](https://youtu.be/5AxC3UYfg2k?t=1478).  [[Repo]](https://github.com/maxbiostat/EBDS_2021). 
