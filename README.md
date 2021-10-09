@@ -33,7 +33,7 @@ Presentations/talks I have given.
 - 2020-10-30: **Proper Scoring Rules**. Given at the MRP reading group. [[Slides]](https://github.com/maxbiostat/proper_scoring_rules/blob/master/proper_scoring_rules.pdf).  
 
 ### 2021
-- 2021-05-25: **Logarithmic pooling of probability distributions: advances and prospects**. Given at the Open University's Mathematiccs Department Seminar. [[Slides]](https://github.com/maxbiostat/opinion_pooling/blob/master/presentations/open_university_2021/lmcarvalho_OpenUni_2021.pdf). 
+- 2021-05-25: **Logarithmic pooling of probability distributions: advances and prospects**. Given at the Open University's Mathematics Department Seminar. [[Slides]](https://github.com/maxbiostat/opinion_pooling/blob/master/presentations/open_university_2021/lmcarvalho_OpenUni_2021.pdf). 
 
 - 2021-08-04: **A proposal for the standardisation of epidemic modelling reporting in Brazil**. Given at the [Third Brazilian Meeting in Data Science (EBDS)](https://evento.fgv.br/encontrodatascience/). [[Video]](https://youtu.be/5AxC3UYfg2k?t=1478).  [[Repo]](https://github.com/maxbiostat/EBDS_2021). 
 
