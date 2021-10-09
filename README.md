@@ -6,13 +6,15 @@ Presentations/talks I have given.
 
 - 2012-11-26: **Playing dumb: the misuse of Statistics in Biology**. Given at the [IMPG](https://www.microbiologia.ufrj.br/portal/index.php/pt/). [[Slides]](https://github.com/maxbiostat/presentations/blob/master/PDF/BAD_PRACT.pdf).
 
+- 2014-03-11: **Bayesian inference of deterministic population growth models**. Given at the [XII Brazilian Meeting on Bayesian Statistics](https://www.ime.usp.br/~isbra/ebeb/ebeb2014/) (EBEB). [[Slides]](https://github.com/maxbiostat/presentations/blob/master/PDF/2014_Carvalho_EBEB.pdf). [[Video]](https://youtu.be/35ubhRoJLN0). [[Code]](https://github.com/maxbiostat/CODE/tree/master/BIDPGM).
+
 - 2015-07-29: **Phylodynamics: how Genetics and Mathematics are changing our understanding of infectious diseases**. Given at the XXX Brazilian Mathematics Colloquium. [[Slides]](https://github.com/maxbiostat/Colloquium_IMPA_2015/blob/master/lmcarvalho_phylo.pdf). [[Video (Portuguese)]](https://www.youtube.com/watch?v=xcXjh0CdkLA). [[repo]](https://github.com/maxbiostat/Colloquium_IMPA_2015/).
 
 - 2016-02-23: **On the choice of weights for logarithimc pooling of probability distributions**. Given at the XIII Brazilian Bayesian Statistics Meeting (EBEB). [[Slides]](https://github.com/maxbiostat/opinion_pooling/blob/master/presentations/EBEB_2016/PRESENTATION/lmcarvalho_etal_ebeb_2016.pdf). [[Video]](https://youtu.be/MGft1XnW3es?list=PL3T2Ppt4bgDJBiGZlan-qNY6PsLOGXdAB).     
 
-- 2019-05-14: **Phylodynamics of infectious diseases: recent advances**. Given at the [IMPG](https://www.microbiologia.ufrj.br/portal/index.php/pt/) Seminar. [[Slides]](https://github.com/maxbiostat/presentations/blob/master/PDF/2019_LMCarvalho_IMPG.pdf) 
-
 - 2017-08-29: **Evolutionary epidemiology in the 21st century**. Given at [CCIARM](http://www.lac.inpe.br/cciarm/). [[Slides]](https://github.com/maxbiostat/presentations/blob/master/PDF/2017_LMCarvalho_CCIARM.pdf).
+
+- 2019-05-14: **Phylodynamics of infectious diseases: recent advances**. Given at the [IMPG](https://www.microbiologia.ufrj.br/portal/index.php/pt/) Seminar. [[Slides]](https://github.com/maxbiostat/presentations/blob/master/PDF/2019_LMCarvalho_IMPG.pdf) 
 
 - 2020-06-18: **Modelling COVID-19: making the best of bad data**. Given at the EMAp/FGV webinar. [[Slides]](https://github.com/maxbiostat/presentations/blob/master/PDF/LMCarvalho_COVID19_modelling.pdf) [[Video (Portuguese)] ](https://www.youtube.com/watch?v=Wf6AiAsIR0Y&t=4543s).
 
