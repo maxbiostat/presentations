@@ -44,3 +44,5 @@ Presentations/talks I have given.
 - 2021-08-21: **FGV Day: an introduction to Applied Mathematics for prospective (high school) students**. [[Slides]](https://github.com/maxbiostat/presentations/blob/master/PDF/2021_FGV_day.pdf) in Portuguese.
 
 - 2021-09-16: **FGV/EMAp Postgraduate Day: my main topics of research** (as of September 2021) [[Slides]](https://github.com/maxbiostat/presentations/blob/master/PDF/EMAp_postgrad_2021.pdf).
+
+- 2021-10-14: **Measuring mixing for MCMC in phylogenetics: The (strange) case of clade indicators** . Given at the BayesComp-ISBA Workshop ["Measuring the quality of MCMC output"](https://bayescomp-isba.github.io/measuringquality.html). [[Slides]](https://github.com/maxbiostat/presentations/blob/master/PDF/Phylo_MCMC_diagnostics.pdf). [[Video]](https://youtu.be/tZmwbjZKsCU?list=PLUaj_wLsosMQbSDOO6eHKSG9vZV0awBPx). 
