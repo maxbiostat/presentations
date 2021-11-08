@@ -13,6 +13,7 @@ Presentations/talks I have given.
 ### 2015
 
 - 2015-07-29: **Phylodynamics: how Genetics and Mathematics are changing our understanding of infectious diseases**. Given at the XXX Brazilian Mathematics Colloquium. [[Slides]](https://github.com/maxbiostat/Colloquium_IMPA_2015/blob/master/lmcarvalho_phylo.pdf). [[Video (Portuguese)]](https://www.youtube.com/watch?v=xcXjh0CdkLA). [[repo]](https://github.com/maxbiostat/Colloquium_IMPA_2015/).
+- 2015-11-23: **BEAST guts: how does Bayesian Evolutionary Analyses by Sampling Trees work?**. Given at the [Ashworth Code Monkeys](https://github.com/AshworthCodeMonkeys/talks). [[markdown]](https://github.com/maxbiostat/CODE/blob/master/BEAST_guts/BEAST_guts.md).  
 
 ### 2016
 - 2016-02-23: **On the choice of weights for logarithimc pooling of probability distributions**. Given at the XIII Brazilian Bayesian Statistics Meeting (EBEB). [[Slides]](https://github.com/maxbiostat/opinion_pooling/blob/master/presentations/EBEB_2016/PRESENTATION/lmcarvalho_etal_ebeb_2016.pdf). [[Video]](https://youtu.be/MGft1XnW3es?list=PL3T2Ppt4bgDJBiGZlan-qNY6PsLOGXdAB).     
