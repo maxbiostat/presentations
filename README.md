@@ -50,4 +50,5 @@ Presentations/talks I have given.
 
 ### 2022
 
-- 2022-06-02: **_Al buio non si trova_: Biostatistics in the 21st century**. Given at the EMAp Seminar series. [[Slides]](https://github.com/maxbiostat/presentations/blob/master/PDF/EMAp_postgrad_2022_LuizCarvalho.pdf). 
+- 2022-06-02: **_Al buio non si trova_: Biostatistics in the 21st century**. Given at the EMAp Seminar series. [[Slides]](https://github.com/maxbiostat/presentations/blob/master/PDF/EMAp_postgrad_2022_LuizCarvalho.pdf).
+- 2022-06-21: **Evaluating Markov chain Monte Carlo for phylogenetics: the case of exchangeable distributions}**. Given at the PPGE-UFRGS seminar. [[Slides]](https://github.com/maxbiostat/presentations/blob/master/PDF/2022_validating_coalescent_presentation.pdf).
