@@ -54,6 +54,6 @@ Presentations/talks I have given.
 - 2022-06-21: **Evaluating Markov chain Monte Carlo for phylogenetics: the case of exchangeable distributions**. Given at the PPGE-UFRGS seminar. [[Slides]](https://github.com/maxbiostat/presentations/blob/master/PDF/2022_validating_coalescent_presentation.pdf).
 - 2022-07-04: **Pandemic preparedness in Brazil: the role of statisticians and our models**. Given at the [19th Brazilian School of Time Series and Econometrics](https://sites.google.com/unicamp.br/este2022/schedule) (ESTE 2022). [[Slides]](https://github.com/maxbiostat/presentations/blob/master/PDF/ESTE_2022.pdf).
 - 2022-11-16: **Markov Chain Monte Carlo for phylogenetics: a helicopter ride**. Given at [COLMEA](http://www.im.ufrj.br/~coloquiomea/). [[Slides]](https://github.com/maxbiostat/presentations/blob/master/PDF/COLMEA_2022.pdf). 
-- 2023-02-02: **Fitting epidemic models to data: shenanigans and ideas**. Given at [LACIAM](
+- 2023-02-02: **Fitting deterministic epidemic models to data: shenanigans and ideas**. Given at [LACIAM](
 https://eventos.fgv.br/laciam-2023). [[Slides]](https://github.com/maxbiostat/presentations/blob/master/PDF/LACIAM_2023.pdf). 
 
