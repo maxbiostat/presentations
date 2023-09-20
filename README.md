@@ -58,5 +58,6 @@ Presentations/talks I have given.
 ### 2023
 - 2023-02-02: **Fitting deterministic epidemic models to data: shenanigans and ideas**. Given at [LACIAM](
 https://eventos.fgv.br/laciam-2023). [[Slides]](https://github.com/maxbiostat/presentations/blob/master/PDF/LACIAM_2023.pdf);
-- 2023-06-15: **_Al buio non si trova_: principled phylodynamics for pandemic preparation**. Given at the [International Colloquium on Mathematical Modelling in Epidemiology](https://eventos.fgv.br/international-colloquium-mathematical-modelling-epidemiology). [[Slides]](https://github.com/maxbiostat/presentations/blob/master/PDF/principled_phylodynamics_presentation.pdf) [[Video (English)]](https://youtu.be/bU7BZI3HLy8?t=2746). 
+- 2023-06-15: **_Al buio non si trova_: principled phylodynamics for pandemic preparation**. Given at the [International Colloquium on Mathematical Modelling in Epidemiology](https://eventos.fgv.br/international-colloquium-mathematical-modelling-epidemiology). [[Slides]](https://github.com/maxbiostat/presentations/blob/master/PDF/principled_phylodynamics_presentation.pdf) [[Video (English)]](https://youtu.be/bU7BZI3HLy8?t=2746).
+- 2023-09-19: **Bayesian inference for deterministic epidemic models**. Given at the [ National Congress on Applied and Computational Mathematics (CNMAC 2023)](https://www.cnmac.org.br/novo/index.php/CNMAC) . [[Slides]](https://github.com/maxbiostat/presentations/blob/master/PDF/CNMAC_2023_LMCarvalho.pdf). 
 
