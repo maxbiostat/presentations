@@ -62,3 +62,5 @@ https://eventos.fgv.br/laciam-2023). [[Slides]](https://github.com/maxbiostat/pr
 - 2023-09-19: **Bayesian inference for deterministic epidemic models**. Given at the [ National Congress on Applied and Computational Mathematics (CNMAC 2023)](https://www.cnmac.org.br/novo/index.php/CNMAC) . [[Slides]](https://github.com/maxbiostat/presentations/blob/master/PDF/CNMAC_2023_LMCarvalho.pdf).
 - 2023-11-13: **Evaluating Markov chain Monte Carlo for phylogenetics**. Given at [BAYSM](https://events.stat.uconn.edu/BAYSM2023/). [[Slides]](https://github.com/maxbiostat/presentations/blob/master/PDF/validating_coalescent_presentation.pdf) 
 
+### 2024
+- 2024-05-22: **Principled phylodynamics for pandemic preparation**. Given at DME UFRJ. [[Slides]](https://github.com/maxbiostat/presentations/blob/master/PDF/principled_phylodynamics_presentation_May_2024.pdf). This is slightly different from the ICMME presentation.
