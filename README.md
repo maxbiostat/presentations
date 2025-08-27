@@ -66,4 +66,5 @@ https://eventos.fgv.br/laciam-2023). [[Slides]](https://github.com/maxbiostat/pr
 - 2024-05-22: **Principled phylodynamics for pandemic preparation**. Given at DME UFRJ. [[Slides]](https://github.com/maxbiostat/presentations/blob/master/PDF/principled_phylodynamics_presentation_May_2024.pdf). This is slightly different from the ICMME presentation.
 
 #### 2025
-- 2025-07-01: Ciência da Incerteza: como estar (aproximadamente) certo (quase) sempre. [[Slides]](https://docs.google.com/presentation/d/1T7I070IvNKH1uWUsb2ryw57iHX68uZW6N8kDeBLzUJk/edit?usp=sharing) 
+- 2025-07-01: Ciência da Incerteza: como estar (aproximadamente) certo (quase) sempre. [[Slides]](https://docs.google.com/presentation/d/1T7I070IvNKH1uWUsb2ryw57iHX68uZW6N8kDeBLzUJk/edit?usp=sharing).
+- 2025-08-27: Bioestatística no século XXI: métodos bayesianos robustos. [[Slides]](https://github.com/maxbiostat/presentations/blob/master/PDF/aMostra_USP_2025.pdf). 
