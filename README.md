@@ -67,4 +67,5 @@ https://eventos.fgv.br/laciam-2023). [[Slides]](https://github.com/maxbiostat/pr
 
 #### 2025
 - 2025-07-01: Ciência da Incerteza: como estar (aproximadamente) certo (quase) sempre. [[Slides]](https://docs.google.com/presentation/d/1T7I070IvNKH1uWUsb2ryw57iHX68uZW6N8kDeBLzUJk/edit?usp=sharing).
-- 2025-08-27: Bioestatística no século XXI: métodos bayesianos robustos. aMostra USP 2025. [[Slides]](https://github.com/maxbiostat/presentations/blob/master/PDF/aMostra_USP_2025.pdf). 
+- 2025-08-27: Bioestatística no século XXI: métodos bayesianos robustos. aMostra USP 2025. [[Slides]](https://github.com/maxbiostat/presentations/blob/master/PDF/aMostra_USP_2025.pdf).
+- 2025-09-19: Processos Markovianos no grafo subtree prune-and-regraft (SPR). XLIV Congresso Nacional de Matemática Aplicada e Computacional. [[Slides]](https://github.com/maxbiostat/presentations/blob/master/PDF/tree_lump_apresentacao.pdf). 
