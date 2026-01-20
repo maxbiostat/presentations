@@ -65,10 +65,13 @@ https://eventos.fgv.br/laciam-2023). [[Slides]](https://github.com/maxbiostat/pr
 ### 2024
 - 2024-05-22: **Principled phylodynamics for pandemic preparation**. Given at DME UFRJ. [[Slides]](https://github.com/maxbiostat/presentations/blob/master/PDF/principled_phylodynamics_presentation_May_2024.pdf). This is slightly different from the ICMME presentation.
 
-#### 2025
+### 2025
 - 2025-07-01: Ciência da Incerteza: como estar (aproximadamente) certo (quase) sempre. [[Slides]](https://docs.google.com/presentation/d/1T7I070IvNKH1uWUsb2ryw57iHX68uZW6N8kDeBLzUJk/edit?usp=sharing).
 - 2025-05-20: Data integration and predictive ensembles for arbovirus surveillance in Brazil. Oxford Martin School Workshop on pathogen spillovers. [[Slides]](https://github.com/maxbiostat/presentations/blob/master/PDF/Oxford_Martin_School.pdf). 
 - 2025-08-27: Bioestatística no século XXI: métodos bayesianos robustos. aMostra USP 2025. [[Slides]](https://github.com/maxbiostat/presentations/blob/master/PDF/aMostra_USP_2025.pdf).
 - 2025-09-19: Processos Markovianos no grafo subtree prune-and-regraft (SPR). XLIV Congresso Nacional de Matemática Aplicada e Computacional. [[Slides]](https://github.com/maxbiostat/presentations/blob/master/PDF/tree_lump_apresentacao.pdf).
 - 2025-09-23: Ciência da Incerteza: como estar (aproximadamente) certo (quase) sempre. Festival da Matemática do Rio Grande do Sul. [[Slides]](https://docs.google.com/presentation/d/1PE27UqQp6-TG77c9cMQ7J2rt2CMYUUecJTb6QEP9eEI/edit?usp=sharing).
 - 2025-11-25: Leveraging probabilistic forecasts for dengue preparation and control in Brazil. [E-vigilância 2025](https://e-vigilancia.dengue.mat.br/). [[Slides]](https://github.com/maxbiostat/presentations/blob/master/PDF/Ensembles_Evigilancia_nov_2025.pdf).
+
+### 2026
+- 2026-01-19: Bioestatística no século XXI: métodos bayesianos robustos. [EAMC](https://eamc.lncc.br/) [[Slides 1]](https://github.com/maxbiostat/presentations/blob/master/PDF/Apresenta%C3%A7%C3%A3o%20SBMAC%202026%20LNCC.pdf) [[Slides 2]](https://github.com/maxbiostat/presentations/blob/master/PDF/EAMC_LNCC_2026.pdf).
