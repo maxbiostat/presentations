@@ -74,4 +74,4 @@ https://eventos.fgv.br/laciam-2023). [[Slides]](https://github.com/maxbiostat/pr
 - 2025-11-25: Leveraging probabilistic forecasts for dengue preparation and control in Brazil. [E-vigilância 2025](https://e-vigilancia.dengue.mat.br/). [[Slides]](https://github.com/maxbiostat/presentations/blob/master/PDF/Ensembles_Evigilancia_nov_2025.pdf).
 
 ### 2026
-- 2026-01-19: Bioestatística no século XXI: métodos bayesianos robustos. [EAMC](https://eamc.lncc.br/) [[Slides 1]](https://github.com/maxbiostat/presentations/blob/master/PDF/Apresenta%C3%A7%C3%A3o%20SBMAC%202026%20LNCC.pdf) [[Slides 2]](https://github.com/maxbiostat/presentations/blob/master/PDF/EAMC_LNCC_2026.pdf).
+- 2026-01-19: Bioestatística no século XXI: métodos bayesianos robustos. [XIX EAMC](https://eamc.lncc.br/) at LNCC. [[Slides 1]](https://github.com/maxbiostat/presentations/blob/master/PDF/Apresenta%C3%A7%C3%A3o%20SBMAC%202026%20LNCC.pdf) [[Slides 2]](https://github.com/maxbiostat/presentations/blob/master/PDF/EAMC_LNCC_2026.pdf).
