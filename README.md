@@ -75,5 +75,5 @@ https://eventos.fgv.br/laciam-2023). [[Slides]](https://github.com/maxbiostat/pr
 
 ### 2026
 - 2026-01-19: Bioestatística no século XXI: métodos bayesianos robustos. [XIX EAMC](https://eamc.lncc.br/) at LNCC. [[Slides 1]](https://github.com/maxbiostat/presentations/blob/master/PDF/Apresenta%C3%A7%C3%A3o%20SBMAC%202026%20LNCC.pdf) [[Slides 2]](https://github.com/maxbiostat/presentations/blob/master/PDF/EAMC_LNCC_2026.pdf).
-- 2026-09-29: Árvores salvam vidas, mas não do jeito que você pensa. aMostra USP 2026. [[Slides]](https://github.com/maxbiostat/presentations/blob/master/PDF/2026_aMostra_USP.pdf).
+- 2026-09-29: Árvores salvam vidas, mas não do jeito que você pensa. aMostra USP 2026. [[Slides]](https://github.com/maxbiostat/presentations/blob/master/PDF/2026_aMostra_USP.pdf). [[Video (Portuguese)]](https://youtu.be/-QQuiKK-9Dw).
 - 2026-09-30: Principled Bayesian dynamic borrowing with power prior methods. [V Colóquio de Matemática da Região Sudeste](https://sbm.org.br/coloquio-sudeste-5/). [[Slides]](https://github.com/maxbiostat/presentations/blob/master/PDF/coloquio_Sudeste_MAp_2026.pdf).
